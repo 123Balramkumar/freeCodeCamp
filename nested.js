@@ -1,8 +1,4 @@
-for(i=0;i<3;i++){
-        for(j=0;j<3;j++){
-           console.log("hello") 
-        }
-    }
+
     
     function simpleArraySum(ar) {
         
@@ -13,3 +9,4 @@ for(i=0;i<3;i++){
     }
     console.log(sum); 
     }
+    simpleArraySum([1,2,3,4,5,6]);
