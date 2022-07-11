@@ -7,3 +7,4 @@ function abTest(a, b) {
   }
   
   console.log(abTest(2, 2));
+  console.log(abTest(2, 2));
