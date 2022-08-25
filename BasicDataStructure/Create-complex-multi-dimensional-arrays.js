@@ -1,3 +1,5 @@
+// Create complex multi-dimensional arrays
+
 let myNestedArray = [
     // Only change code below this line
       ["unshift", false, 1, 2, 3, "complex", "nested"],
